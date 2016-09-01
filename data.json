@@ -1,0 +1,308 @@
+﻿var DATA = {
+    "AC Nielsen Corporation/Nielsen Media Research": [
+        "DCCC",
+    ],
+    "Active Engagement": [
+        "Carly for President",
+        "Cruz for President",
+        "America's Liberty PAC",
+        "Tea Party Patriots Citizens Fund"
+    ],
+    "Advantage Direct": [
+        "Maine Republican Party",
+        "West Virginia Republican Party, Inc"
+    ],
+    "Alaskans for Begich 2014": [
+        "Lindbeck for Alaska"
+    ],
+    "Allegiance List Marketing": [
+        "NRCC",
+        "Stop Hillary PAC",
+        "Madison Project Inc",
+        "Keep the Promise PAC"
+    ],
+    "Alternet": [
+        "End Citizens United",
+        "Progressive Turnout Project",
+        "DCCC"
+    ],
+    "American Action News": [
+        "Stop Hillary PAC",
+        "Conservative Action Fund"
+    ],
+    "American Prospect": [
+        "End Citizens United"
+    ],
+    "John Aravosis": [
+        "DCCC"
+    ],
+    "Arena Communications": [
+        "Scott Walker Inc"
+    ],
+    "Atlantic List Company": [
+        "Tea Party Majority Fund"
+    ],
+    "Bay View Funding Eastern Harbor Media LLC": [
+        "DCCC",
+    ],
+    "Belardi Ostroy": [
+        "Bernie 2016",
+        "Emily's List"
+    ],
+    "Blue Ridge Electric COOP": [
+        "Lindsey Graham 2016"
+    ],
+    "Brabender Cox": [
+        "Fleming for Louisiana"
+    ],
+    "Brilliant Communications": [
+        "Great America PAC"
+    ],
+    "Campaign Solutions": [
+        "The Tea Party Leadership Fund",
+        "NRCC",
+        "Rand Paul for US Senate 2016",
+        "Lindsey Graham 2016",
+        "Right to Rise PAC Inc",
+        "Cruz for President",
+        "Friends of Dav Brat Inc",
+        "California Republican Party Federal Acct",
+        "Conservative Action Fund",
+        "Jeb 2016 Inc",
+        "Zinke for Congress",
+        "Cleek for Congress",
+        "Seal PAC",
+        "Joe Wilson for Congress",
+        "Great America PAC",
+        "Stop Hillary PAC",
+        "Senate Conservatives Fund",
+        "Coffman for Congress 2016",
+        "Tea Party Forward",
+        "Joe Wilson for Congress",
+        "Paul Broun Committee",
+        "Lindsey Graham 2016",
+        "Friends of Kelly Ayotte Inc",
+        "Republican Party of Florida",
+        "Del Beccaro for Senate"
+    ],
+    "Capitol Hill Lists": [
+        "Stutzman for Senate",
+        "Friends of Kelly Ayotte Inc",
+        "NRCC",
+        "Friends of John Boehner",
+        "Friends of Mia Love",
+        "Rand Paul for President, Inc",
+        "West Virginia Republican Party, Inc",
+        "Friends of Pat Toomey",
+        "Stop Hillary PAC",
+        "Ron Desantis for Florida"
+    ],
+    "Capstone Lists, Inc": [
+        "Republicans for Choice PAC"
+    ],
+    "Care of Advantage, Inc": [
+        "West Virginia Republican Party, Inc"
+    ],
+    "Care2": [
+        "End Citizens United"
+    ],
+    "CD, Inc.": [
+        "Stop Hillary PAC"
+    ],
+    "Center for American Progress Action Fund": [
+        "End Citizens United"
+    ],
+    "Grant Show": [
+        "Big Love",
+        "Six Feet Under"
+    ],
+    "Greg Antonacci": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "J. Smith-Cameron": [
+        "K Street",
+        "True Blood"
+    ],
+    "James Ransone": [
+        "Generation Kill",
+        "Treme",
+        "The Wire"
+    ],
+    "Jamie-Lynn Sigler": [
+        "Entourage",
+        "The Sopranos"
+    ],
+    "Jim Beaver": [
+        "Deadwood",
+        "John from Cincinnati",
+        "Six Feet Under"
+    ],
+    "Jim True-Frost": [
+        "True Blood",
+        "The Wire"
+    ],
+    "J.D. Williams": [
+        "The Wire",
+        "Oz",
+        "Sex and the City"
+    ],
+    "John Carroll Lynch": [
+        "Big Love",
+        "Carnivàle",
+        "How To Make It in America"
+    ],
+    "John Doman": [
+        "Oz",
+        "The Sopranos",
+        "The Wire"
+    ],
+    "John Hawkes": [
+        "Eastbound and Down",
+        "Deadwood"
+    ],
+    "John Seda": [
+        "Oz",
+        "Treme"
+    ],
+    "Kevin Rankin": [
+        "Big Love",
+        "Six Feet Under"
+    ],
+    "Kim Dickens": [
+        "Deadwood",
+        "Treme"
+    ],
+    "Laila Robins": [
+        "In Treatment",
+        "The Sopranos",
+        "Sex and the City",
+        "Bored to Death"
+    ],
+    "Lance Reddick": [
+        "The Wire",
+        "Oz",
+        "The Corner"
+    ],
+    "Louis Lombardi": [
+        "Entourage",
+        "The Sopranos"
+    ],
+    "Luis Guzmán": [
+        "How To Make It in America",
+        "John from Cincinnati",
+        "Oz"
+    ],
+    "Luke Perry": [
+        "Oz",
+        "John from Cincinnati"
+    ],
+    "Mary Kay Place": [
+        "Big Love",
+        "Bored to Death"
+    ],
+    "Matt Winston": [
+        "John from Cincinnati",
+        "Six Feet Under"
+    ],
+    "Method Man": [
+        "Oz",
+        "The Wire"
+    ],
+    "Michael Kenneth William": [
+        "Boardwalk Empire",
+        "The Sopranos",
+        "The Wire"
+    ],
+    "Michelle Forbes": [
+        "In Treatment",
+        "True Blood"
+    ],
+    "Paul Ben-Victor": [
+        "Entourage",
+        "The Wire",
+        "John from Cincinnati",
+        "Curb Your Enthusiasm"
+    ],
+    "Paul Herman": [
+        "Entourage",
+        "The Sopranos"
+    ],
+    "Paula Malcomson": [
+        "Deadwood",
+        "John from Cincinnati",
+        "Six Feet Under"
+    ],
+    "Reg E. Cathey": [
+        "The Wire",
+        "Oz",
+        "The Corner"
+    ],
+    "Robert Clohessy": [
+        "Boardwalk Empire",
+        "Oz"
+    ],
+    "Roxanne Hart": [
+        "Hung",
+        "Oz"
+    ],
+    "Seth Gilliam": [
+        "Oz",
+        "The Wire"
+    ],
+    "Stephen Toblowsky": [
+        "Deadwood",
+        "Curb Your Enthusiasm",
+        "John from Cincinnati"
+    ],
+    "Steve Buscemi": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "Steve Earle": [
+        "The Wire",
+        "Six Feet Under",
+        "Treme"
+    ],
+    "Ted Danson": [
+        "Bored to Death",
+        "Curb Your Enthusiasm"
+    ],
+    "Tom Aldredge": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "Tom Mardirosian": [
+        "Oz",
+        "The Wire"
+    ],
+    "Tom Townsend": [
+        "Entourage",
+        "The Wire"
+    ],
+    "Toni Lewis": [
+        "Oz",
+        "The Wire"
+    ],
+    "Vincent Piazza": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "Wendel Pierce": [
+        "Treme",
+        "The Wire"
+    ],
+    "William Sanderson": [
+        "True Blood",
+        "Deadwood"
+    ],
+    "Willie Garson": [
+        "John from Cincinnati",
+        "Sex and the City"
+    ],
+    "Zeljko Ivanek": [
+        "Big Love",
+        "True Blood",
+        "Oz"
+    ]
+};
