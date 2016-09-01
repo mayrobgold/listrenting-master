@@ -1,4 +1,101 @@
-﻿var DATA = {
+var DATA = {
+    "Aidan Gillen": [
+        "Game of Thrones",
+        "The Wire"
+    ],
+    "Alexander Skarsgård": [
+        "Generation Kill",
+        "True Blood"
+    ],
+    "Amy Ryan": [
+        "In Treatment",
+        "The Wire"
+    ],
+    "Annie Fitzgerald": [
+        "Big Love",
+        "True Blood"
+    ],
+    "Anwan Glover": [
+        "Treme",
+        "The Wire"
+    ],
+    "Blair Underwood": [
+        "John from Cincinnati",
+        "Sex and the City"
+    ],
+    "Brian F. O'Byrne": [
+        "Oz",
+        "K Street"
+    ],
+    "Chris Bauer": [
+        "True Blood",
+        "The Wire"
+    ],
+    "Clarke Peters": [
+        "Oz",
+        "Treme",
+        "True Blood",
+        "The Wire"
+    ],
+    "Cynthia Ettinger": [
+        "Carnivàle",
+        "Curb Your Enthusiasm",
+        "Deadwood"
+    ],
+    "Cyrus Farmer": [
+        "The Corner",
+        "Oz",
+        "The Wire"
+    ],
+    "Dane DeHaan": [
+        "In Treatment",
+        "True Blood"
+    ],
+    "Dania Remirez": [
+        "Entourage",
+        "The Sopranos"
+    ],
+    "David Costabile": [
+        "Flight of the Conchords",
+        "The Wire"
+    ],
+    "Dayton Callie": [
+        "Deadwood",
+        "In Treatment"
+    ],
+    "Dominic Chianese": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "Domonic Lombardozzi": [
+        "Entourage",
+        "Oz",
+        "The Wire"
+    ],
+    "Don Swayze": [
+        "Carnivàle",
+        "True Blood"
+    ],
+    "Edie Falco": [
+        "Oz",
+        "The Sopranos"
+    ],
+    "Edoardo Ballerini": [
+        "Boardwalk Empire",
+        "The Sopranos"
+    ],
+    "Edwina Findley": [
+        "True Blood",
+        "The Wire"
+    ],
+    "Garret Dillahunt": [
+        "Deadwood",
+        "John from Cincinnati"
+    ],
+    "Glynn Turman": [
+        "John from Cincinnati",
+        "The Wire"
+    ],
     "Grant Show": [
         "Big Love",
         "Six Feet Under"
